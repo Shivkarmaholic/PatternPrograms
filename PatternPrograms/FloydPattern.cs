@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 namespace PatternPrograms
 {
     class FloydPattern
-    {
+    { 
         static void Main(string[] args)
         {
             Console.WriteLine("Enter the size : ");
